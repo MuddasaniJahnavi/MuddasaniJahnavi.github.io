@@ -1,3 +1,6 @@
+# Disclaimer
+This website is a copy of website designed and developed by Brittany Chiang. You can visit their website at https://bchiang7.github.io
+
 # v3
 
 Third iteration of my personal website built with Jekyll.
